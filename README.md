@@ -57,8 +57,6 @@ php artisan key:generate
 
 サーバー起動
 php artisan serve
-ブラウザで以下にアクセスしてください。
 
-cpp
-コードをコピーする
+ブラウザで以下にアクセスしてください。
 http://127.0.0.1:8000
